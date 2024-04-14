@@ -1,4 +1,4 @@
-# Python Fundamental for Data Analyst 1
+# Python Fundamental for Data Analyst 
 
 # Introduction to Python
 Data analysis is a broad term that covers a wide range of techniques that enable revealing any insights and relationships that may exist within raw data. As might be expected, Python lends itself readily to data analysis. 
